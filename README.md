@@ -1,92 +1,103 @@
+
 <h1 align="center">Emem John</h1>
+
 <p align="center">
-  <strong>Cloud & DevOps Engineer</strong> · AWS · Terraform · Linux · Docker · Kubernetes
+  <strong>Cloud & DevOps Engineer</strong><br/>
+  AWS · Terraform · Linux · Docker · Kubernetes · Infrastructure Automation
 </p>
+
 <p align="center">
-  I design and automate cloud infrastructure with a focus on reliability, observability, and operational clarity.
+  Cloud infrastructure, platform operations, and systems engineering.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emem-john">LinkedIn</a> ·
+  <a href="https://ememjohn.com">Portfolio</a> ·
+  <a href="https://github.com/ememjohn">GitHub</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a Cloud & DevOps Engineer and Computer Science student at the University of the People.
+I'm a Cloud & DevOps Engineer and Computer Science student at the University of the People. My work centers on AWS infrastructure, infrastructure automation, cloud migration, containerized platforms, and observability.
 
-Through self-directed projects, I provision cloud environments, automate deployment pipelines, and build the monitoring layer that tells you when something is about to break, not after it already has. I test systems under failure, not just success, and I write down what I learn so the next person doesn't have to relearn it the hard way.
+I approach engineering through implementation and investigation: designing infrastructure, examining system behavior, resolving operational issues, and documenting the decisions behind the work.
 
-Documentation isn't an afterthought in my work. It's how a system stays usable after I've moved on to the next one.
+I also write technical documentation that makes infrastructure and engineering processes easier to understand and maintain.
 
 ---
 
 ## Featured Projects
 
-### 🔭 SignalOps
+### Bedrock
+**Production-Grade Retail Platform on AWS EKS**
+
+A cloud-native retail platform built around AWS and Kubernetes. The project explores infrastructure provisioning, container orchestration, application deployment, and the operational considerations of running services on Amazon EKS.
+
+**Technologies:** AWS · EKS · Kubernetes · Terraform · Docker
+
+[View repository](REPLACE_WITH_BEDROCK_REPOSITORY_URL)
+
+---
+
+### Sabay Premium Bank
+**Core Banking Ledger Migration and Modernization**
+
+An end-to-end engineering project focused on migrating an on-premises core banking ledger to AWS. It covers cloud landing-zone design, infrastructure provisioning with Terraform, database migration to Amazon RDS, application deployment, security controls, and disaster recovery planning.
+
+**Technologies:** AWS · Terraform · Linux · PostgreSQL · Amazon RDS · Python · FastAPI
+
+[View repository](https://github.com/ememjohn/onprem-to-cloud.git)
+
+---
+
+### SignalOps
 **Infrastructure Observability Platform**
 
-SignalOps consolidates metrics, container performance data, and logs into one observability layer, so every part of a stack stays visible from a single place.
+An infrastructure observability platform that brings metrics, container performance data, and logs into a centralized monitoring environment. It uses Prometheus and Grafana for metrics and visualization, with Loki and Promtail for log aggregation.
 
-**Built with:** Prometheus · Grafana · Loki · Promtail · Node Exporter · cAdvisor · Docker · Linux · Nginx · Terraform · AWS
+**Technologies:** AWS · Terraform · Docker · Prometheus · Grafana · Loki · Promtail · Node Exporter · cAdvisor · Nginx
 
-[View Repository →](https://github.com/Ememscriba/signalops)
-
----
-
-### ☁️ INSYRIO
-**Cloud Infrastructure Validation Platform**
-
-A platform for validating AWS environments through controlled access and automated checks, currently in active development.
-
-**Built with:** AWS · IAM · STS · FastAPI · Python · SQLAlchemy · PostgreSQL · React · TypeScript · Vite
-
-**Status:** In development · Private repository
+[View repository](https://github.com/ememjohn/signalops)
 
 ---
 
-## Technical Stack
+## Technical Expertise
 
-### Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,terraform,ansible" />
-</p>
+**Cloud & Infrastructure**  
+AWS · Linux · Terraform · Ansible · Bash
 
-**AWS · Linux · Terraform · Ansible · Bash**
+**Containers & Orchestration**  
+Docker · Kubernetes
 
-### Containers & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx" />
-</p>
+**CI/CD & Automation**  
+GitHub Actions · Infrastructure as Code · Deployment Automation
 
-**Docker · Kubernetes · GitHub Actions · Nginx**
+**Observability**  
+Prometheus · Grafana · Loki · Promtail · Node Exporter · cAdvisor
 
-### Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" />
-</p>
-**Prometheus · Grafana · Loki · Promtail · Node Exporter · cAdvisor**
-
-### Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,vite,postgres" />
-</p>
-
-**Python · FastAPI · TypeScript · React · Vite · PostgreSQL**
+**Development & Databases**  
+Python · FastAPI · TypeScript · React · PostgreSQL
 
 ---
 
-## Currently Seeking
+## Education
 
-Cloud Engineer and DevOps Engineer roles, particularly with remote-first teams, where I can ship real infrastructure and grow into larger platform responsibility.
+**University of the People**  
+B.S. Computer Science · In progress
 
----
-
-## Also Building
-
-I write the documentation that makes complex systems understandable. It's why I founded Heranex, where I help founders and technical leaders communicate technical work with clarity.
+**AltSchool Africa**  
+Diploma in Cloud Engineering
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EmemJohn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE-HERE)
-[![Website](https://img.shields.io/badge/Website-EmemJohn.com-black)](https://ememjohn.com)
+<p>
+  <a href="https://www.linkedin.com/in/emem-john">LinkedIn</a> ·
+  <a href="https://ememjohn.com">Portfolio</a> ·
+  <a href="https://github.com/ememjohn">GitHub</a>
+</p>
+
+Open to Cloud Engineering and DevOps opportunities, including remote roles.
