@@ -37,7 +37,7 @@ A cloud-native retail platform built around AWS and Kubernetes. The project expl
 
 **Technologies:** AWS · EKS · Kubernetes · Terraform · Docker
 
-[View repository](REPLACE_WITH_BEDROCK_REPOSITORY_URL)
+[View repository](https://github.com/ememjohn/project-bedrock)
 
 ---
 
